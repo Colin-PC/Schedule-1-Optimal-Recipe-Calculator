@@ -1,0 +1,702 @@
+Writing optimal configurations
+
+#1 config:
+Bud Type: OG
+Ingredients: ['Gasoline', 'Cuke', 'Battery', 'Mega Bean', 'Viagra']
+Effects: ['Glowing', 'Zombifying', 'Cyclopean', 'Bright-Eyed', 'Foggy', 'Tropic Thunder']
+Value: 134.4
+Profit: 104.65
+
+#2 config:
+Bud Type: OG
+Ingredients: ['Gasoline', 'Cuke', 'Battery', 'Viagra', 'Mega Bean']
+Effects: ['Glowing', 'Zombifying', 'Cyclopean', 'Bright-Eyed', 'Tropic Thunder', 'Foggy']
+Value: 134.4
+Profit: 104.65
+
+#3 config:
+Bud Type: OG
+Ingredients: ['Gasoline', 'Viagra', 'Cuke', 'Battery', 'Mega Bean']
+Effects: ['Glowing', 'Zombifying', 'Tropic Thunder', 'Cyclopean', 'Bright-Eyed', 'Foggy']
+Value: 134.4
+Profit: 104.65
+
+#4 config:
+Bud Type: OG
+Ingredients: ['Viagra', 'Gasoline', 'Cuke', 'Battery', 'Mega Bean']
+Effects: ['Glowing', 'Tropic Thunder', 'Zombifying', 'Cyclopean', 'Bright-Eyed', 'Foggy']
+Value: 134.4
+Profit: 104.65
+
+#5 config:
+Bud Type: Green
+Ingredients: ['Paracetamol', 'Gasoline', 'Cuke', 'Battery', 'Mega Bean']
+Effects: ['Glowing', 'Tropic Thunder', 'Zombifying', 'Cyclopean', 'Bright-Eyed', 'Foggy']
+Value: 134.4
+Profit: 104.4
+
+#6 config:
+Bud Type: OG
+Ingredients: ['Banana', 'Gasoline', 'Cuke', 'Banana', 'Battery']
+Effects: ['Tropic Thunder', 'Anti-Gravity', 'Zombifying', 'Thought-Provoking', 'Gingeritis', 'Bright-Eyed']
+Value: 126.7
+Profit: 103.95
+
+#7 config:
+Bud Type: OG
+Ingredients: ['Banana', 'Gasoline', 'Cuke', 'Battery', 'Banana']
+Effects: ['Tropic Thunder', 'Anti-Gravity', 'Zombifying', 'Thought-Provoking', 'Bright-Eyed', 'Gingeritis']
+Value: 126.7
+Profit: 103.95
+
+#8 config:
+Bud Type: OG
+Ingredients: ['Mega Bean', 'Banana', 'Cuke', 'Horse Semen', 'Viagra']
+Effects: ['Glowing', 'Cyclopean', 'Electrifying', 'Energizing', 'Long Faced', 'Tropic Thunder']
+Value: 130.9
+Profit: 103.15
+
+#9 config:
+Bud Type: OG
+Ingredients: ['Mega Bean', 'Banana', 'Cuke', 'Viagra', 'Horse Semen']
+Effects: ['Glowing', 'Cyclopean', 'Electrifying', 'Energizing', 'Tropic Thunder', 'Long Faced']
+Value: 130.9
+Profit: 103.15
+
+#10 config:
+Bud Type: OG
+Ingredients: ['Mega Bean', 'Banana', 'Viagra', 'Cuke', 'Horse Semen']
+Effects: ['Glowing', 'Cyclopean', 'Electrifying', 'Tropic Thunder', 'Energizing', 'Long Faced']
+Value: 130.9
+Profit: 103.15
+
+#11 config:
+Bud Type: OG
+Ingredients: ['Mega Bean', 'Viagra', 'Banana', 'Cuke', 'Horse Semen']
+Effects: ['Glowing', 'Cyclopean', 'Tropic Thunder', 'Electrifying', 'Energizing', 'Long Faced']
+Value: 130.9
+Profit: 103.15
+
+#12 config:
+Bud Type: OG
+Ingredients: ['Viagra', 'Mega Bean', 'Banana', 'Cuke', 'Horse Semen']
+Effects: ['Glowing', 'Tropic Thunder', 'Cyclopean', 'Electrifying', 'Energizing', 'Long Faced']
+Value: 130.9
+Profit: 103.15
+
+#13 config:
+Bud Type: OG
+Ingredients: ['Cuke', 'Energy Drink', 'Mega Bean', 'Viagra', 'Mouth Wash']
+Effects: ['Glowing', 'Cyclopean', 'Anti-Gravity', 'Foggy', 'Tropic Thunder', 'Balding']
+Value: 129.5
+Profit: 102.75
+
+#14 config:
+Bud Type: OG
+Ingredients: ['Cuke', 'Energy Drink', 'Viagra', 'Mega Bean', 'Mouth Wash']
+Effects: ['Glowing', 'Cyclopean', 'Anti-Gravity', 'Tropic Thunder', 'Foggy', 'Balding']
+Value: 129.5
+Profit: 102.75
+
+#15 config:
+Bud Type: OG
+Ingredients: ['Energy Drink', 'Cuke', 'Mega Bean', 'Viagra', 'Mouth Wash']
+Effects: ['Glowing', 'Anti-Gravity', 'Cyclopean', 'Foggy', 'Tropic Thunder', 'Balding']
+Value: 129.5
+Profit: 102.75
+
+#16 config:
+Bud Type: OG
+Ingredients: ['Energy Drink', 'Cuke', 'Viagra', 'Mega Bean', 'Mouth Wash']
+Effects: ['Glowing', 'Anti-Gravity', 'Cyclopean', 'Tropic Thunder', 'Foggy', 'Balding']
+Value: 129.5
+Profit: 102.75
+
+#17 config:
+Bud Type: OG
+Ingredients: ['Gasoline', 'Motor Oil', 'Cuke', 'Battery', 'Mega Bean']
+Effects: ['Glowing', 'Zombifying', 'Tropic Thunder', 'Cyclopean', 'Bright-Eyed', 'Foggy']
+Value: 134.4
+Profit: 102.65
+
+#18 config:
+Bud Type: OG
+Ingredients: ['Motor Oil', 'Gasoline', 'Cuke', 'Battery', 'Mega Bean']
+Effects: ['Glowing', 'Tropic Thunder', 'Zombifying', 'Cyclopean', 'Bright-Eyed', 'Foggy']
+Value: 134.4
+Profit: 102.65
+
+#19 config:
+Bud Type: OG
+Ingredients: ['Mouth Wash', 'Banana', 'Cuke', 'Horse Semen', 'Mega Bean']
+Effects: ['Glowing', 'Balding', 'Electrifying', 'Cyclopean', 'Long Faced', 'Foggy']
+Value: 130.20000000000002
+Profit: 102.45000000000002
+
+#20 config:
+Bud Type: OG
+Ingredients: ['Cuke', 'Mega Bean', 'Iodine', 'Motor Oil', 'Viagra']
+Effects: ['Glowing', 'Cyclopean', 'Anti-Gravity', 'Jennerising', 'Slippery', 'Tropic Thunder']
+Value: 133.0
+Profit: 102.25
+
+#21 config:
+Bud Type: OG
+Ingredients: ['Cuke', 'Mega Bean', 'Iodine', 'Viagra', 'Motor Oil']
+Effects: ['Glowing', 'Cyclopean', 'Anti-Gravity', 'Jennerising', 'Tropic Thunder', 'Slippery']
+Value: 133.0
+Profit: 102.25
+
+#22 config:
+Bud Type: OG
+Ingredients: ['Cuke', 'Mega Bean', 'Viagra', 'Iodine', 'Motor Oil']
+Effects: ['Glowing', 'Cyclopean', 'Anti-Gravity', 'Tropic Thunder', 'Jennerising', 'Slippery']
+Value: 133.0
+Profit: 102.25
+
+#23 config:
+Bud Type: OG
+Ingredients: ['Cuke', 'Viagra', 'Mega Bean', 'Iodine', 'Motor Oil']
+Effects: ['Glowing', 'Cyclopean', 'Tropic Thunder', 'Anti-Gravity', 'Jennerising', 'Slippery']
+Value: 133.0
+Profit: 102.25
+
+#24 config:
+Bud Type: OG
+Ingredients: ['Viagra', 'Cuke', 'Mega Bean', 'Iodine', 'Motor Oil']
+Effects: ['Glowing', 'Tropic Thunder', 'Cyclopean', 'Anti-Gravity', 'Jennerising', 'Slippery']
+Value: 133.0
+Profit: 102.25
+
+#25 config:
+Bud Type: OG
+Ingredients: ['Cuke', 'Energy Drink', 'Mega Bean', 'Chili', 'Viagra']
+Effects: ['Glowing', 'Cyclopean', 'Long Faced', 'Foggy', 'Spicy', 'Tropic Thunder']
+Value: 131.6
+Profit: 101.85
+
+#26 config:
+Bud Type: OG
+Ingredients: ['Energy Drink', 'Cuke', 'Mega Bean', 'Chili', 'Viagra']
+Effects: ['Glowing', 'Long Faced', 'Cyclopean', 'Foggy', 'Spicy', 'Tropic Thunder']
+Value: 131.6
+Profit: 101.85
+
+#27 config:
+Bud Type: OG
+Ingredients: ['Gasoline', 'Cuke', 'Battery', 'Horse Semen', 'Mega Bean']
+Effects: ['Glowing', 'Zombifying', 'Cyclopean', 'Bright-Eyed', 'Long Faced', 'Foggy']
+Value: 136.5
+Profit: 101.75
+
+#28 config:
+Bud Type: OG
+Ingredients: ['Gasoline', 'Cuke', 'Battery', 'Mega Bean', 'Horse Semen']
+Effects: ['Glowing', 'Zombifying', 'Cyclopean', 'Bright-Eyed', 'Foggy', 'Long Faced']
+Value: 136.5
+Profit: 101.75
+
+#29 config:
+Bud Type: OG
+Ingredients: ['Gasoline', 'Cuke', 'Horse Semen', 'Battery', 'Mega Bean']
+Effects: ['Glowing', 'Zombifying', 'Cyclopean', 'Long Faced', 'Bright-Eyed', 'Foggy']
+Value: 136.5
+Profit: 101.75
+
+#30 config:
+Bud Type: OG
+Ingredients: ['Gasoline', 'Horse Semen', 'Cuke', 'Battery', 'Mega Bean']
+Effects: ['Glowing', 'Zombifying', 'Long Faced', 'Cyclopean', 'Bright-Eyed', 'Foggy']
+Value: 136.5
+Profit: 101.75
+
+#31 config:
+Bud Type: OG
+Ingredients: ['Horse Semen', 'Gasoline', 'Cuke', 'Battery', 'Mega Bean']
+Effects: ['Glowing', 'Long Faced', 'Zombifying', 'Cyclopean', 'Bright-Eyed', 'Foggy']
+Value: 136.5
+Profit: 101.75
+
+#32 config:
+Bud Type: OG
+Ingredients: ['Gasoline', 'Cuke', 'Horse Semen', 'Mega Bean', 'Viagra']
+Effects: ['Glowing', 'Bright-Eyed', 'Cyclopean', 'Long Faced', 'Foggy', 'Tropic Thunder']
+Value: 132.29999999999998
+Profit: 101.54999999999998
+
+#33 config:
+Bud Type: OG
+Ingredients: ['Gasoline', 'Cuke', 'Horse Semen', 'Viagra', 'Mega Bean']
+Effects: ['Glowing', 'Bright-Eyed', 'Cyclopean', 'Long Faced', 'Tropic Thunder', 'Foggy']
+Value: 132.29999999999998
+Profit: 101.54999999999998
+
+#34 config:
+Bud Type: OG
+Ingredients: ['Gasoline', 'Cuke', 'Mega Bean', 'Horse Semen', 'Viagra']
+Effects: ['Glowing', 'Bright-Eyed', 'Cyclopean', 'Foggy', 'Long Faced', 'Tropic Thunder']
+Value: 132.29999999999998
+Profit: 101.54999999999998
+
+#35 config:
+Bud Type: OG
+Ingredients: ['Gasoline', 'Cuke', 'Mega Bean', 'Viagra', 'Horse Semen']
+Effects: ['Glowing', 'Bright-Eyed', 'Cyclopean', 'Foggy', 'Tropic Thunder', 'Long Faced']
+Value: 132.29999999999998
+Profit: 101.54999999999998
+
+#36 config:
+Bud Type: OG
+Ingredients: ['Gasoline', 'Cuke', 'Viagra', 'Horse Semen', 'Mega Bean']
+Effects: ['Glowing', 'Bright-Eyed', 'Cyclopean', 'Tropic Thunder', 'Long Faced', 'Foggy']
+Value: 132.29999999999998
+Profit: 101.54999999999998
+
+#37 config:
+Bud Type: OG
+Ingredients: ['Gasoline', 'Cuke', 'Viagra', 'Mega Bean', 'Horse Semen']
+Effects: ['Glowing', 'Bright-Eyed', 'Cyclopean', 'Tropic Thunder', 'Foggy', 'Long Faced']
+Value: 132.29999999999998
+Profit: 101.54999999999998
+
+#38 config:
+Bud Type: OG
+Ingredients: ['Gasoline', 'Horse Semen', 'Cuke', 'Mega Bean', 'Viagra']
+Effects: ['Glowing', 'Bright-Eyed', 'Long Faced', 'Cyclopean', 'Foggy', 'Tropic Thunder']
+Value: 132.29999999999998
+Profit: 101.54999999999998
+
+#39 config:
+Bud Type: OG
+Ingredients: ['Gasoline', 'Horse Semen', 'Cuke', 'Viagra', 'Mega Bean']
+Effects: ['Glowing', 'Bright-Eyed', 'Long Faced', 'Cyclopean', 'Tropic Thunder', 'Foggy']
+Value: 132.29999999999998
+Profit: 101.54999999999998
+
+#40 config:
+Bud Type: OG
+Ingredients: ['Horse Semen', 'Gasoline', 'Cuke', 'Mega Bean', 'Viagra']
+Effects: ['Glowing', 'Long Faced', 'Bright-Eyed', 'Cyclopean', 'Foggy', 'Tropic Thunder']
+Value: 132.29999999999998
+Profit: 101.54999999999998
+
+#41 config:
+Bud Type: OG
+Ingredients: ['Horse Semen', 'Gasoline', 'Cuke', 'Viagra', 'Mega Bean']
+Effects: ['Glowing', 'Long Faced', 'Bright-Eyed', 'Cyclopean', 'Tropic Thunder', 'Foggy']
+Value: 132.29999999999998
+Profit: 101.54999999999998
+
+#42 config:
+Bud Type: OG
+Ingredients: ['Cuke', 'Horse Semen', 'Mouth Wash', 'Mega Bean', 'Viagra']
+Effects: ['Anti-Gravity', 'Cyclopean', 'Long Faced', 'Balding', 'Foggy', 'Tropic Thunder']
+Value: 130.9
+Profit: 101.15
+
+#43 config:
+Bud Type: OG
+Ingredients: ['Cuke', 'Horse Semen', 'Mouth Wash', 'Viagra', 'Mega Bean']
+Effects: ['Anti-Gravity', 'Cyclopean', 'Long Faced', 'Balding', 'Tropic Thunder', 'Foggy']
+Value: 130.9
+Profit: 101.15
+
+#44 config:
+Bud Type: OG
+Ingredients: ['Cuke', 'Horse Semen', 'Viagra', 'Mouth Wash', 'Mega Bean']
+Effects: ['Anti-Gravity', 'Cyclopean', 'Long Faced', 'Tropic Thunder', 'Balding', 'Foggy']
+Value: 130.9
+Profit: 101.15
+
+#45 config:
+Bud Type: OG
+Ingredients: ['Cuke', 'Viagra', 'Horse Semen', 'Mouth Wash', 'Mega Bean']
+Effects: ['Anti-Gravity', 'Cyclopean', 'Tropic Thunder', 'Long Faced', 'Balding', 'Foggy']
+Value: 130.9
+Profit: 101.15
+
+#46 config:
+Bud Type: OG
+Ingredients: ['Gasoline', 'Cuke', 'Battery', 'Mouth Wash', 'Mega Bean']
+Effects: ['Anti-Gravity', 'Zombifying', 'Cyclopean', 'Bright-Eyed', 'Balding', 'Foggy']
+Value: 130.9
+Profit: 101.15
+
+#47 config:
+Bud Type: OG
+Ingredients: ['Gasoline', 'Cuke', 'Mouth Wash', 'Battery', 'Mega Bean']
+Effects: ['Anti-Gravity', 'Zombifying', 'Cyclopean', 'Balding', 'Bright-Eyed', 'Foggy']
+Value: 130.9
+Profit: 101.15
+
+#48 config:
+Bud Type: OG
+Ingredients: ['Gasoline', 'Mouth Wash', 'Cuke', 'Battery', 'Mega Bean']
+Effects: ['Anti-Gravity', 'Zombifying', 'Balding', 'Cyclopean', 'Bright-Eyed', 'Foggy']
+Value: 130.9
+Profit: 101.15
+
+#49 config:
+Bud Type: OG
+Ingredients: ['Horse Semen', 'Cuke', 'Mouth Wash', 'Mega Bean', 'Viagra']
+Effects: ['Anti-Gravity', 'Long Faced', 'Cyclopean', 'Balding', 'Foggy', 'Tropic Thunder']
+Value: 130.9
+Profit: 101.15
+
+#50 config:
+Bud Type: OG
+Ingredients: ['Horse Semen', 'Cuke', 'Mouth Wash', 'Viagra', 'Mega Bean']
+Effects: ['Anti-Gravity', 'Long Faced', 'Cyclopean', 'Balding', 'Tropic Thunder', 'Foggy']
+Value: 130.9
+Profit: 101.15
+
+#51 config:
+Bud Type: OG
+Ingredients: ['Horse Semen', 'Cuke', 'Viagra', 'Mouth Wash', 'Mega Bean']
+Effects: ['Anti-Gravity', 'Long Faced', 'Cyclopean', 'Tropic Thunder', 'Balding', 'Foggy']
+Value: 130.9
+Profit: 101.15
+
+#52 config:
+Bud Type: OG
+Ingredients: ['Horse Semen', 'Mouth Wash', 'Cuke', 'Mega Bean', 'Viagra']
+Effects: ['Anti-Gravity', 'Long Faced', 'Balding', 'Cyclopean', 'Foggy', 'Tropic Thunder']
+Value: 130.9
+Profit: 101.15
+
+#53 config:
+Bud Type: OG
+Ingredients: ['Horse Semen', 'Mouth Wash', 'Cuke', 'Viagra', 'Mega Bean']
+Effects: ['Anti-Gravity', 'Long Faced', 'Balding', 'Cyclopean', 'Tropic Thunder', 'Foggy']
+Value: 130.9
+Profit: 101.15
+
+#54 config:
+Bud Type: OG
+Ingredients: ['Horse Semen', 'Mouth Wash', 'Viagra', 'Cuke', 'Mega Bean']
+Effects: ['Anti-Gravity', 'Long Faced', 'Balding', 'Tropic Thunder', 'Cyclopean', 'Foggy']
+Value: 130.9
+Profit: 101.15
+
+#55 config:
+Bud Type: OG
+Ingredients: ['Horse Semen', 'Viagra', 'Cuke', 'Mouth Wash', 'Mega Bean']
+Effects: ['Anti-Gravity', 'Long Faced', 'Tropic Thunder', 'Cyclopean', 'Balding', 'Foggy']
+Value: 130.9
+Profit: 101.15
+
+#56 config:
+Bud Type: OG
+Ingredients: ['Horse Semen', 'Viagra', 'Mouth Wash', 'Cuke', 'Mega Bean']
+Effects: ['Anti-Gravity', 'Long Faced', 'Tropic Thunder', 'Balding', 'Cyclopean', 'Foggy']
+Value: 130.9
+Profit: 101.15
+
+#57 config:
+Bud Type: OG
+Ingredients: ['Mouth Wash', 'Gasoline', 'Cuke', 'Battery', 'Mega Bean']
+Effects: ['Anti-Gravity', 'Balding', 'Zombifying', 'Cyclopean', 'Bright-Eyed', 'Foggy']
+Value: 130.9
+Profit: 101.15
+
+#58 config:
+Bud Type: OG
+Ingredients: ['Viagra', 'Cuke', 'Horse Semen', 'Mouth Wash', 'Mega Bean']
+Effects: ['Anti-Gravity', 'Tropic Thunder', 'Cyclopean', 'Long Faced', 'Balding', 'Foggy']
+Value: 130.9
+Profit: 101.15
+
+#59 config:
+Bud Type: OG
+Ingredients: ['Viagra', 'Horse Semen', 'Cuke', 'Mouth Wash', 'Mega Bean']
+Effects: ['Anti-Gravity', 'Tropic Thunder', 'Long Faced', 'Cyclopean', 'Balding', 'Foggy']
+Value: 130.9
+Profit: 101.15
+
+#60 config:
+Bud Type: OG
+Ingredients: ['Viagra', 'Horse Semen', 'Mouth Wash', 'Cuke', 'Mega Bean']
+Effects: ['Anti-Gravity', 'Tropic Thunder', 'Long Faced', 'Balding', 'Cyclopean', 'Foggy']
+Value: 130.9
+Profit: 101.15
+
+#61 config:
+Bud Type: OG
+Ingredients: ['Addy', 'Cuke', 'Horse Semen', 'Mega Bean', 'Viagra']
+Effects: ['Glowing', 'Electrifying', 'Cyclopean', 'Long Faced', 'Foggy', 'Tropic Thunder']
+Value: 135.79999999999998
+Profit: 101.04999999999998
+
+#62 config:
+Bud Type: OG
+Ingredients: ['Addy', 'Cuke', 'Horse Semen', 'Viagra', 'Mega Bean']
+Effects: ['Glowing', 'Electrifying', 'Cyclopean', 'Long Faced', 'Tropic Thunder', 'Foggy']
+Value: 135.79999999999998
+Profit: 101.04999999999998
+
+#63 config:
+Bud Type: OG
+Ingredients: ['Addy', 'Cuke', 'Viagra', 'Horse Semen', 'Mega Bean']
+Effects: ['Glowing', 'Electrifying', 'Cyclopean', 'Tropic Thunder', 'Long Faced', 'Foggy']
+Value: 135.79999999999998
+Profit: 101.04999999999998
+
+#64 config:
+Bud Type: OG
+Ingredients: ['Addy', 'Horse Semen', 'Cuke', 'Mega Bean', 'Viagra']
+Effects: ['Glowing', 'Electrifying', 'Long Faced', 'Cyclopean', 'Foggy', 'Tropic Thunder']
+Value: 135.79999999999998
+Profit: 101.04999999999998
+
+#65 config:
+Bud Type: OG
+Ingredients: ['Addy', 'Horse Semen', 'Cuke', 'Viagra', 'Mega Bean']
+Effects: ['Glowing', 'Electrifying', 'Long Faced', 'Cyclopean', 'Tropic Thunder', 'Foggy']
+Value: 135.79999999999998
+Profit: 101.04999999999998
+
+#66 config:
+Bud Type: OG
+Ingredients: ['Addy', 'Horse Semen', 'Viagra', 'Cuke', 'Mega Bean']
+Effects: ['Glowing', 'Electrifying', 'Long Faced', 'Tropic Thunder', 'Cyclopean', 'Foggy']
+Value: 135.79999999999998
+Profit: 101.04999999999998
+
+#67 config:
+Bud Type: OG
+Ingredients: ['Addy', 'Viagra', 'Cuke', 'Horse Semen', 'Mega Bean']
+Effects: ['Glowing', 'Electrifying', 'Tropic Thunder', 'Cyclopean', 'Long Faced', 'Foggy']
+Value: 135.79999999999998
+Profit: 101.04999999999998
+
+#68 config:
+Bud Type: OG
+Ingredients: ['Addy', 'Viagra', 'Horse Semen', 'Cuke', 'Mega Bean']
+Effects: ['Glowing', 'Electrifying', 'Tropic Thunder', 'Long Faced', 'Cyclopean', 'Foggy']
+Value: 135.79999999999998
+Profit: 101.04999999999998
+
+#69 config:
+Bud Type: OG
+Ingredients: ['Cuke', 'Addy', 'Horse Semen', 'Mega Bean', 'Viagra']
+Effects: ['Glowing', 'Cyclopean', 'Electrifying', 'Long Faced', 'Foggy', 'Tropic Thunder']
+Value: 135.79999999999998
+Profit: 101.04999999999998
+
+#70 config:
+Bud Type: OG
+Ingredients: ['Cuke', 'Addy', 'Horse Semen', 'Viagra', 'Mega Bean']
+Effects: ['Glowing', 'Cyclopean', 'Electrifying', 'Long Faced', 'Tropic Thunder', 'Foggy']
+Value: 135.79999999999998
+Profit: 101.04999999999998
+
+#71 config:
+Bud Type: OG
+Ingredients: ['Cuke', 'Addy', 'Viagra', 'Horse Semen', 'Mega Bean']
+Effects: ['Glowing', 'Cyclopean', 'Electrifying', 'Tropic Thunder', 'Long Faced', 'Foggy']
+Value: 135.79999999999998
+Profit: 101.04999999999998
+
+#72 config:
+Bud Type: OG
+Ingredients: ['Cuke', 'Viagra', 'Addy', 'Horse Semen', 'Mega Bean']
+Effects: ['Glowing', 'Cyclopean', 'Tropic Thunder', 'Electrifying', 'Long Faced', 'Foggy']
+Value: 135.79999999999998
+Profit: 101.04999999999998
+
+#73 config:
+Bud Type: OG
+Ingredients: ['Viagra', 'Addy', 'Cuke', 'Horse Semen', 'Mega Bean']
+Effects: ['Glowing', 'Tropic Thunder', 'Electrifying', 'Cyclopean', 'Long Faced', 'Foggy']
+Value: 135.79999999999998
+Profit: 101.04999999999998
+
+#74 config:
+Bud Type: OG
+Ingredients: ['Viagra', 'Addy', 'Horse Semen', 'Cuke', 'Mega Bean']
+Effects: ['Glowing', 'Tropic Thunder', 'Electrifying', 'Long Faced', 'Cyclopean', 'Foggy']
+Value: 135.79999999999998
+Profit: 101.04999999999998
+
+#75 config:
+Bud Type: OG
+Ingredients: ['Viagra', 'Cuke', 'Addy', 'Horse Semen', 'Mega Bean']
+Effects: ['Glowing', 'Tropic Thunder', 'Cyclopean', 'Electrifying', 'Long Faced', 'Foggy']
+Value: 135.79999999999998
+Profit: 101.04999999999998
+
+#76 config:
+Bud Type: OG
+Ingredients: ['Gasoline', 'Cuke', 'Mouth Wash', 'Mega Bean', 'Viagra']
+Effects: ['Anti-Gravity', 'Bright-Eyed', 'Cyclopean', 'Balding', 'Foggy', 'Tropic Thunder']
+Value: 126.7
+Profit: 100.95
+
+#77 config:
+Bud Type: OG
+Ingredients: ['Gasoline', 'Cuke', 'Mouth Wash', 'Viagra', 'Mega Bean']
+Effects: ['Anti-Gravity', 'Bright-Eyed', 'Cyclopean', 'Balding', 'Tropic Thunder', 'Foggy']
+Value: 126.7
+Profit: 100.95
+
+#78 config:
+Bud Type: OG
+Ingredients: ['Gasoline', 'Mouth Wash', 'Cuke', 'Mega Bean', 'Viagra']
+Effects: ['Anti-Gravity', 'Bright-Eyed', 'Balding', 'Cyclopean', 'Foggy', 'Tropic Thunder']
+Value: 126.7
+Profit: 100.95
+
+#79 config:
+Bud Type: OG
+Ingredients: ['Gasoline', 'Mouth Wash', 'Cuke', 'Viagra', 'Mega Bean']
+Effects: ['Anti-Gravity', 'Bright-Eyed', 'Balding', 'Cyclopean', 'Tropic Thunder', 'Foggy']
+Value: 126.7
+Profit: 100.95
+
+#80 config:
+Bud Type: OG
+Ingredients: ['Mouth Wash', 'Gasoline', 'Cuke', 'Mega Bean', 'Viagra']
+Effects: ['Anti-Gravity', 'Balding', 'Bright-Eyed', 'Cyclopean', 'Foggy', 'Tropic Thunder']
+Value: 126.7
+Profit: 100.95
+
+#81 config:
+Bud Type: OG
+Ingredients: ['Mouth Wash', 'Gasoline', 'Cuke', 'Viagra', 'Mega Bean']
+Effects: ['Anti-Gravity', 'Balding', 'Bright-Eyed', 'Cyclopean', 'Tropic Thunder', 'Foggy']
+Value: 126.7
+Profit: 100.95
+
+#82 config:
+Bud Type: OG
+Ingredients: ['Gasoline', 'Cuke', 'Viagra', 'Mouth Wash', 'Mega Bean']
+Effects: ['Anti-Gravity', 'Bright-Eyed', 'Cyclopean', 'Tropic Thunder', 'Balding', 'Foggy']
+Value: 126.69999999999999
+Profit: 100.94999999999999
+
+#83 config:
+Bud Type: OG
+Ingredients: ['Mega Bean', 'Motor Oil', 'Cuke', 'Battery', 'Mega Bean']
+Effects: ['Glowing', 'Zombifying', 'Tropic Thunder', 'Cyclopean', 'Bright-Eyed', 'Foggy']
+Value: 134.4
+Profit: 100.65
+
+#84 config:
+Bud Type: OG
+Ingredients: ['Banana', 'Mega Bean', 'Mouth Wash', 'Viagra', 'Cuke']
+Effects: ['Anti-Gravity', 'Thought-Provoking', 'Cyclopean', 'Balding', 'Tropic Thunder', 'Energizing']
+Value: 123.20000000000002
+Profit: 100.45000000000002
+
+#85 config:
+Bud Type: OG
+Ingredients: ['Mouth Wash', 'Banana', 'Mega Bean', 'Viagra', 'Cuke']
+Effects: ['Anti-Gravity', 'Balding', 'Thought-Provoking', 'Cyclopean', 'Tropic Thunder', 'Energizing']
+Value: 123.20000000000002
+Profit: 100.45000000000002
+
+#86 config:
+Bud Type: OG
+Ingredients: ['Mouth Wash', 'Mega Bean', 'Banana', 'Viagra', 'Cuke']
+Effects: ['Anti-Gravity', 'Balding', 'Cyclopean', 'Thought-Provoking', 'Tropic Thunder', 'Energizing']
+Value: 123.20000000000002
+Profit: 100.45000000000002
+
+#87 config:
+Bud Type: OG
+Ingredients: ['Mouth Wash', 'Mega Bean', 'Viagra', 'Banana', 'Cuke']
+Effects: ['Anti-Gravity', 'Balding', 'Cyclopean', 'Tropic Thunder', 'Thought-Provoking', 'Energizing']
+Value: 123.20000000000002
+Profit: 100.45000000000002
+
+#88 config:
+Bud Type: OG
+Ingredients: ['Mouth Wash', 'Viagra', 'Mega Bean', 'Banana', 'Cuke']
+Effects: ['Anti-Gravity', 'Balding', 'Tropic Thunder', 'Cyclopean', 'Thought-Provoking', 'Energizing']
+Value: 123.20000000000002
+Profit: 100.45000000000002
+
+#89 config:
+Bud Type: OG
+Ingredients: ['Viagra', 'Mouth Wash', 'Mega Bean', 'Banana', 'Cuke']
+Effects: ['Anti-Gravity', 'Tropic Thunder', 'Balding', 'Cyclopean', 'Thought-Provoking', 'Energizing']
+Value: 123.20000000000002
+Profit: 100.45000000000002
+
+#90 config:
+Bud Type: OG
+Ingredients: ['Banana', 'Mega Bean', 'Viagra', 'Mouth Wash', 'Cuke']
+Effects: ['Anti-Gravity', 'Thought-Provoking', 'Cyclopean', 'Tropic Thunder', 'Balding', 'Energizing']
+Value: 123.2
+Profit: 100.45
+
+#91 config:
+Bud Type: OG
+Ingredients: ['Banana', 'Viagra', 'Mega Bean', 'Cuke', 'Mouth Wash']
+Effects: ['Anti-Gravity', 'Thought-Provoking', 'Tropic Thunder', 'Cyclopean', 'Energizing', 'Balding']
+Value: 123.2
+Profit: 100.45
+
+#92 config:
+Bud Type: OG
+Ingredients: ['Banana', 'Viagra', 'Mega Bean', 'Mouth Wash', 'Cuke']
+Effects: ['Anti-Gravity', 'Thought-Provoking', 'Tropic Thunder', 'Cyclopean', 'Balding', 'Energizing']
+Value: 123.2
+Profit: 100.45
+
+#93 config:
+Bud Type: OG
+Ingredients: ['Mouth Wash', 'Banana', 'Mega Bean', 'Cuke', 'Viagra']
+Effects: ['Anti-Gravity', 'Balding', 'Thought-Provoking', 'Cyclopean', 'Energizing', 'Tropic Thunder']
+Value: 123.2
+Profit: 100.45
+
+#94 config:
+Bud Type: OG
+Ingredients: ['Mouth Wash', 'Banana', 'Viagra', 'Mega Bean', 'Cuke']
+Effects: ['Anti-Gravity', 'Balding', 'Thought-Provoking', 'Tropic Thunder', 'Cyclopean', 'Energizing']
+Value: 123.2
+Profit: 100.45
+
+#95 config:
+Bud Type: OG
+Ingredients: ['Mouth Wash', 'Mega Bean', 'Banana', 'Cuke', 'Viagra']
+Effects: ['Anti-Gravity', 'Balding', 'Cyclopean', 'Thought-Provoking', 'Energizing', 'Tropic Thunder']
+Value: 123.2
+Profit: 100.45
+
+#96 config:
+Bud Type: OG
+Ingredients: ['Mouth Wash', 'Viagra', 'Banana', 'Mega Bean', 'Cuke']
+Effects: ['Anti-Gravity', 'Balding', 'Tropic Thunder', 'Thought-Provoking', 'Cyclopean', 'Energizing']
+Value: 123.2
+Profit: 100.45
+
+#97 config:
+Bud Type: OG
+Ingredients: ['Viagra', 'Banana', 'Mega Bean', 'Cuke', 'Mouth Wash']
+Effects: ['Anti-Gravity', 'Tropic Thunder', 'Thought-Provoking', 'Cyclopean', 'Energizing', 'Balding']
+Value: 123.2
+Profit: 100.45
+
+#98 config:
+Bud Type: OG
+Ingredients: ['Viagra', 'Banana', 'Mega Bean', 'Mouth Wash', 'Cuke']
+Effects: ['Anti-Gravity', 'Tropic Thunder', 'Thought-Provoking', 'Cyclopean', 'Balding', 'Energizing']
+Value: 123.2
+Profit: 100.45
+
+#99 config:
+Bud Type: OG
+Ingredients: ['Viagra', 'Mouth Wash', 'Banana', 'Mega Bean', 'Cuke']
+Effects: ['Anti-Gravity', 'Tropic Thunder', 'Balding', 'Thought-Provoking', 'Cyclopean', 'Energizing']
+Value: 123.2
+Profit: 100.45
+
+#100 config:
+Bud Type: Purple
+Ingredients: ['Viagra', 'Viagra', 'Viagra', 'Viagra', 'Viagra']
+Effects: ['Sedating', 'Tropic Thunder']
+Value: 60.199999999999996
+Profit: 34.574999999999996
+

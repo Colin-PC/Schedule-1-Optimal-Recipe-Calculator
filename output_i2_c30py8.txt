@@ -1,0 +1,212 @@
+Writing optimal configurations
+
+#1 config:
+Bud Type: OG
+Ingredients: ['Cuke', 'Mega Bean']
+Effects: ['Glowing', 'Cyclopean', 'Foggy']
+Value: 84.0
+Profit: 71.25
+
+#2 config:
+Bud Type: OG
+Ingredients: ['Mouth Wash', 'Viagra']
+Effects: ['Anti-Gravity', 'Balding', 'Tropic Thunder']
+Value: 80.5
+Profit: 68.75
+
+#3 config:
+Bud Type: OG
+Ingredients: ['Viagra', 'Mouth Wash']
+Effects: ['Anti-Gravity', 'Tropic Thunder', 'Balding']
+Value: 80.5
+Profit: 68.75
+
+#4 config:
+Bud Type: Green
+Ingredients: ['Mega Bean', 'Viagra']
+Effects: ['Cyclopean', 'Foggy', 'Tropic Thunder']
+Value: 83.3
+Profit: 67.3
+
+#5 config:
+Bud Type: Green
+Ingredients: ['Viagra', 'Mega Bean']
+Effects: ['Cyclopean', 'Tropic Thunder', 'Foggy']
+Value: 83.3
+Profit: 67.3
+
+#6 config:
+Bud Type: OG
+Ingredients: ['Mega Bean', 'Cuke']
+Effects: ['Glowing', 'Cyclopean', 'Energizing']
+Value: 79.1
+Profit: 66.35
+
+#7 config:
+Bud Type: OG
+Ingredients: ['Horse Semen', 'Mouth Wash']
+Effects: ['Anti-Gravity', 'Long Faced', 'Balding']
+Value: 82.60000000000001
+Profit: 65.85000000000001
+
+#8 config:
+Bud Type: OG
+Ingredients: ['Mega Bean', 'Viagra']
+Effects: ['Glowing', 'Foggy', 'Tropic Thunder']
+Value: 80.5
+Profit: 65.75
+
+#9 config:
+Bud Type: OG
+Ingredients: ['Viagra', 'Mega Bean']
+Effects: ['Glowing', 'Tropic Thunder', 'Foggy']
+Value: 80.5
+Profit: 65.75
+
+#10 config:
+Bud Type: Sour
+Ingredients: ['Iodine', 'Viagra']
+Effects: ['Thought-Provoking', 'Jennerising', 'Tropic Thunder']
+Value: 81.20000000000002
+Profit: 64.82500000000002
+
+#11 config:
+Bud Type: Sour
+Ingredients: ['Viagra', 'Iodine']
+Effects: ['Thought-Provoking', 'Tropic Thunder', 'Jennerising']
+Value: 81.20000000000002
+Profit: 64.82500000000002
+
+#12 config:
+Bud Type: Green
+Ingredients: ['Horse Semen', 'Mega Bean']
+Effects: ['Cyclopean', 'Long Faced', 'Foggy']
+Value: 85.39999999999999
+Profit: 64.39999999999999
+
+#13 config:
+Bud Type: Green
+Ingredients: ['Mega Bean', 'Horse Semen']
+Effects: ['Cyclopean', 'Foggy', 'Long Faced']
+Value: 85.39999999999999
+Profit: 64.39999999999999
+
+#14 config:
+Bud Type: Sour
+Ingredients: ['Iodine', 'Horse Semen']
+Effects: ['Electrifying', 'Jennerising', 'Long Faced']
+Value: 85.39999999999999
+Profit: 64.02499999999999
+
+#15 config:
+Bud Type: OG
+Ingredients: ['Mouth Wash', 'Iodine']
+Effects: ['Anti-Gravity', 'Balding', 'Jennerising']
+Value: 79.1
+Profit: 63.349999999999994
+
+#16 config:
+Bud Type: OG
+Ingredients: ['Addy', 'Mouth Wash']
+Effects: ['Anti-Gravity', 'Thought-Provoking', 'Balding']
+Value: 79.80000000000001
+Profit: 63.05000000000001
+
+#17 config:
+Bud Type: OG
+Ingredients: ['Mouth Wash', 'Addy']
+Effects: ['Anti-Gravity', 'Balding', 'Thought-Provoking']
+Value: 79.80000000000001
+Profit: 63.05000000000001
+
+#18 config:
+Bud Type: OG
+Ingredients: ['Chili', 'Mouth Wash']
+Effects: ['Anti-Gravity', 'Spicy', 'Balding']
+Value: 77.69999999999999
+Profit: 62.94999999999999
+
+#19 config:
+Bud Type: OG
+Ingredients: ['Horse Semen', 'Mega Bean']
+Effects: ['Glowing', 'Long Faced', 'Foggy']
+Value: 82.6
+Profit: 62.849999999999994
+
+#20 config:
+Bud Type: OG
+Ingredients: ['Mega Bean', 'Horse Semen']
+Effects: ['Glowing', 'Foggy', 'Long Faced']
+Value: 82.6
+Profit: 62.849999999999994
+
+#21 config:
+Bud Type: OG
+Ingredients: ['Battery', 'Mouth Wash']
+Effects: ['Anti-Gravity', 'Bright-Eyed', 'Balding']
+Value: 78.4
+Profit: 62.650000000000006
+
+#22 config:
+Bud Type: OG
+Ingredients: ['Mouth Wash', 'Battery']
+Effects: ['Anti-Gravity', 'Balding', 'Bright-Eyed']
+Value: 78.4
+Profit: 62.650000000000006
+
+#23 config:
+Bud Type: OG
+Ingredients: ['Motor Oil', 'Mouth Wash']
+Effects: ['Anti-Gravity', 'Slippery', 'Balding']
+Value: 76.30000000000001
+Profit: 62.55000000000001
+
+#24 config:
+Bud Type: OG
+Ingredients: ['Mouth Wash', 'Motor Oil']
+Effects: ['Anti-Gravity', 'Balding', 'Slippery']
+Value: 76.30000000000001
+Profit: 62.55000000000001
+
+#25 config:
+Bud Type: Green
+Ingredients: ['Banana', 'Viagra']
+Effects: ['Thought-Provoking', 'Gingeritis', 'Tropic Thunder']
+Value: 73.5
+Profit: 62.5
+
+#26 config:
+Bud Type: Green
+Ingredients: ['Viagra', 'Banana']
+Effects: ['Thought-Provoking', 'Tropic Thunder', 'Gingeritis']
+Value: 73.5
+Profit: 62.5
+
+#27 config:
+Bud Type: OG
+Ingredients: ['Cuke', 'Mouth Wash']
+Effects: ['Anti-Gravity', 'Energizing', 'Balding']
+Value: 72.10000000000001
+Profit: 62.35000000000001
+
+#28 config:
+Bud Type: OG
+Ingredients: ['Mouth Wash', 'Cuke']
+Effects: ['Anti-Gravity', 'Balding', 'Energizing']
+Value: 72.10000000000001
+Profit: 62.35000000000001
+
+#29 config:
+Bud Type: OG
+Ingredients: ['Mouth Wash', 'Mega Bean']
+Effects: ['Anti-Gravity', 'Balding', 'Foggy']
+Value: 77.0
+Profit: 62.25
+
+#30 config:
+Bud Type: Purple
+Ingredients: ['Viagra', 'Viagra']
+Effects: ['Sedating', 'Tropic Thunder']
+Value: 60.199999999999996
+Profit: 46.574999999999996
+

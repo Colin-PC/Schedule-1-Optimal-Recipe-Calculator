@@ -1,0 +1,72 @@
+Writing optimal configurations
+
+#1 config:
+Bud Type: OG
+Ingredients: ['Mouth Wash']
+Effects: ['Anti-Gravity', 'Balding']
+Value: 64.4
+Profit: 56.650000000000006
+
+#2 config:
+Bud Type: Green
+Ingredients: ['Mega Bean']
+Effects: ['Cyclopean', 'Foggy']
+Value: 67.2
+Profit: 55.2
+
+#3 config:
+Bud Type: OG
+Ingredients: ['Mega Bean']
+Effects: ['Glowing', 'Foggy']
+Value: 64.39999999999999
+Profit: 53.64999999999999
+
+#4 config:
+Bud Type: Sour
+Ingredients: ['Iodine']
+Effects: ['Thought-Provoking', 'Jennerising']
+Value: 65.1
+Profit: 52.724999999999994
+
+#5 config:
+Bud Type: Purple
+Ingredients: ['Viagra']
+Effects: ['Sedating', 'Tropic Thunder']
+Value: 60.199999999999996
+Profit: 50.574999999999996
+
+#6 config:
+Bud Type: Green
+Ingredients: ['Banana']
+Effects: ['Thought-Provoking', 'Gingeritis']
+Value: 57.400000000000006
+Profit: 50.400000000000006
+
+#7 config:
+Bud Type: Green
+Ingredients: ['Viagra']
+Effects: ['Energizing', 'Tropic Thunder']
+Value: 58.800000000000004
+Profit: 49.800000000000004
+
+#8 config:
+Bud Type: OG
+Ingredients: ['Flu Medicine']
+Effects: ['Bright-Eyed', 'Sedating']
+Value: 58.10000000000001
+Profit: 49.35000000000001
+
+#9 config:
+Bud Type: OG
+Ingredients: ['Paracetamol']
+Effects: ['Slippery', 'Sneaky']
+Value: 55.300000000000004
+Profit: 48.550000000000004
+
+#10 config:
+Bud Type: OG
+Ingredients: ['Iodine']
+Effects: ['Balding', 'Jennerising']
+Value: 60.199999999999996
+Profit: 48.449999999999996
+
